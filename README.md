@@ -49,7 +49,7 @@ To configure the bot, edit the config.yml file. Below is a summary of the settin
 # Setup Stripe
 ![Image](https://koopa.lol/Gifs/Projects/Tickets/Stripe.png)
 - Edit **StripeSecretKey** - Your Stripe Secret Key
-- Edit **AllowedRoles** - Role that can use the /paypal Command 
+- Edit **AllowedRoles** - Role that can use the /stripe Command 
 - Edit **Currency** - Your Currency 
 - Edit **CurrencySymbol** - Your Currency's Symbol
 # Setup Crypto
