@@ -96,8 +96,8 @@ or [Discord](discord.gg/KoopaCode)
 
 # All Bots In Project Koopa
 - **Ticket Bot** - (Finished) - Premium  
-- **Auth System** - (Todo) - Premium
-- **Key System** - (Todo) - Premium
+- **Auth System** - (Finished) - Premium
+- **Key System** - (Finished) - Premium
 - **Music** - (Todo) - Public
 - **All In One** - (Todo) - Public
 - **Tickets V2** - (Todo) - Public/Premium
